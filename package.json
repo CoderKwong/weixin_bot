@@ -9,8 +9,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "mysql": "^2.13.0",
     "vue": "^2.1.10",
     "vue-router": "^2.2.0",
+    "wechaty": "^0.7.17",
     "weixinbot": "^0.6.1"
   },
   "devDependencies": {
